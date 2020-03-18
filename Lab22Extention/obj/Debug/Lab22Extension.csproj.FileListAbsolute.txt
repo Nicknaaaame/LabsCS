@@ -1,0 +1,7 @@
+C:\Users\Mi\source\repos\ConsoleCS\Lab22Extention\bin\Debug\Lab22Extention.exe.config
+C:\Users\Mi\source\repos\ConsoleCS\Lab22Extention\bin\Debug\Lab22Extention.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab22Extention\bin\Debug\Lab22Extention.pdb
+C:\Users\Mi\source\repos\ConsoleCS\Lab22Extention\obj\Debug\Lab22Extension.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab22Extention\obj\Debug\Lab22Extension.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab22Extention\obj\Debug\Lab22Extention.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab22Extention\obj\Debug\Lab22Extention.pdb

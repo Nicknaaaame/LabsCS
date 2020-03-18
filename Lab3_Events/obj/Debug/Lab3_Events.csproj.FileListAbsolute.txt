@@ -1,0 +1,7 @@
+C:\Users\Mi\source\repos\ConsoleCS\Lab3_Events\bin\Debug\Lab3_Events.exe.config
+C:\Users\Mi\source\repos\ConsoleCS\Lab3_Events\bin\Debug\Lab3_Events.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab3_Events\bin\Debug\Lab3_Events.pdb
+C:\Users\Mi\source\repos\ConsoleCS\Lab3_Events\obj\Debug\Lab3_Events.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab3_Events\obj\Debug\Lab3_Events.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab3_Events\obj\Debug\Lab3_Events.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab3_Events\obj\Debug\Lab3_Events.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mi\source\repos\ConsoleCS\Lab31Delegates\bin\Debug\Lab31Delegates.exe.config
+C:\Users\Mi\source\repos\ConsoleCS\Lab31Delegates\bin\Debug\Lab31Delegates.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab31Delegates\bin\Debug\Lab31Delegates.pdb
+C:\Users\Mi\source\repos\ConsoleCS\Lab31Delegates\obj\Debug\Lab31Delegates.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab31Delegates\obj\Debug\Lab31Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab31Delegates\obj\Debug\Lab31Delegates.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab31Delegates\obj\Debug\Lab31Delegates.pdb

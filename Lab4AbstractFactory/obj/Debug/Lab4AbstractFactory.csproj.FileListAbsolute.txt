@@ -1,0 +1,7 @@
+C:\Users\Mi\source\repos\ConsoleCS\Lab4AbstractFactory\bin\Debug\Lab4AbstractFactory.exe.config
+C:\Users\Mi\source\repos\ConsoleCS\Lab4AbstractFactory\bin\Debug\Lab4AbstractFactory.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab4AbstractFactory\bin\Debug\Lab4AbstractFactory.pdb
+C:\Users\Mi\source\repos\ConsoleCS\Lab4AbstractFactory\obj\Debug\Lab4AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab4AbstractFactory\obj\Debug\Lab4AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\ConsoleCS\Lab4AbstractFactory\obj\Debug\Lab4AbstractFactory.exe
+C:\Users\Mi\source\repos\ConsoleCS\Lab4AbstractFactory\obj\Debug\Lab4AbstractFactory.pdb
